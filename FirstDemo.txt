@@ -2,3 +2,6 @@ Learning java
 new to git
 welcome to new programming world
 ftf
+latest code
+updated code
+java platform independent
